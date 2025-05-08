@@ -33,7 +33,7 @@ Veja os arquivos em `documentacao/`:
 1. Acesse o simulador pelo site: [https://wokwi.com](https://wokwi.com)
 2. Importe o código de `codigo/controle_nivel_agua_reservatorio.ino`
 3. Faça as conexões como descritas no diagrama
-4. Configure o broker HiveMQ
+4. Configure o broker HiveMQ (veja o arquivo 'protocolo_MQTT.md')
 5. Acompanhe a leitura em tempo real no console do MQTT
 
 ## 📑 Licença

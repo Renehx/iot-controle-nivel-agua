@@ -40,4 +40,4 @@ Veja os arquivos em `documentacao/`:
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Desenvolvido por [Seu Nome] – 2025
+

@@ -37,7 +37,7 @@ Veja os arquivos em `documentacao/`:
 5. Acompanhe a leitura em tempo real no console do MQTT
 
 ## 📑 Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Projeto licenciado sob a Licença MIT - [LICENSE](LICENSE).
 
 ---
 

@@ -1,13 +1,13 @@
 # 💧 Sistema IoT de Controle de Nível de Água com ESP32 e MQTT
 
-Esse projeto foi desenvolvido para a disciplina de Objetos Inteligentes com base na ODS 6 como requisito obrigatório. Propõe uma solução para o controle de nível de água em reservatórios domésticos ou empresariais, utilizando o microcontrolador ESP32, sensor ultrassônico HC-SR04, Servo Motor SG90 e protocolo MQTT para monitoramento em tempo real via Internet.
+Esse projeto foi desenvolvido para a disciplina de Objetos Inteligentes com base na ODS 6 como requisito obrigatório. Propõe uma solução para o controle de nível de água em reservatórios domésticos ou empresariais, utilizando o microcontrolador ESP32, o sensor ultrassônico HC-SR04, o atuador Servo Motor SG90 e o protocolo MQTT para monitoramento em tempo real via Internet.
 
 ## 📌 Funcionalidades
 - Leitura do nível de água com sensor HC-SR04
 - Abertura/fechamento de válvula com Servo Motor SG90
 - Indicador visual LED para nível da água
 - Envio de dados para broker MQTT (HiveMQ)
-- Simulação completa na plataforma Wokwi
+- Simulação completa na plataforma online Wokwi
 
 ## 📂 Estrutura do Projeto
 - `codigo/`: Código-fonte do projeto em C++ (compatível com IDE do Arduino ou o simulador Wokwi, por exemplo)

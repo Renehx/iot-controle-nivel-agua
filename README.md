@@ -25,14 +25,14 @@ Esse projeto foi desenvolvido para a disciplina de Objetos Inteligentes com base
 
 ## 📚 Documentação Completa
 Veja os arquivos em `documentacao/`:
-- `hardware.md`: Lista de componentes e esquemas
+- `hardware.md`: Lista de componentes e conexões
 - `software.md`: Bibliotecas, estrutura do código e lógica
 - `protocolo_MQTT.md`: Comunicação via MQTT (configuração e funcionamento)
 
 ## 🛠️ Como Executar o projeto no simulador Wokwi
 1. Acesse o simulador pelo site: [https://wokwi.com](https://wokwi.com)
 2. Importe o código de `codigo/controle_nivel_agua_reservatorio.ino`
-3. Faça as conexões como descritas no diagrama
+3. Faça as conexões como descritas no arquivo da documentação `hardware.md`
 4. Configure o broker HiveMQ (veja o arquivo 'protocolo_MQTT.md')
 5. Acompanhe a leitura em tempo real no console do MQTT
 
